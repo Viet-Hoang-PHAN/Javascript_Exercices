@@ -1,0 +1,26 @@
+#container {
+    color: black;
+    padding: 50px;
+    background-color: #EEEEEE;
+    height : 100%;
+}
+
+#attack {
+    color: red;
+}
+
+#critAttack {
+    color:orange;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+#megaCritAttack {
+    color: orangered;
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+#health {
+    color: green;
+}

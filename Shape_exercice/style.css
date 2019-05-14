@@ -1,0 +1,21 @@
+#formCircle, #formSquare {
+    display: none;
+}
+
+.shapeInput {
+    position: fixed;
+    right: 8%;
+    margin-left: 1.2rem;
+}
+
+input, button, select {
+    margin: 1.2rem;
+}
+
+canvas {
+    border: 2px solid black;
+}
+
+.drawContainer {
+    display: flex;
+}
